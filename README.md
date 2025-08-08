@@ -23,8 +23,6 @@ Drop a YouTube URL, and I’ll handle the rest:
 
 ---
 
-### Loom Recording - [LoomVideo](https://www.loom.com/share/c0b4aa38a47e456288c9876d7b260b93?sid=0ccaa690-f8b6-4a34-9537-fbc22d1ef9e9)
-
 ### Snapshots Added
 
 ![](/img/2.png)
